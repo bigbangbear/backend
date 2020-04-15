@@ -4,5 +4,5 @@
 
 ### 1.  How does the internet work?
 
-[参考链接](./article/how does the internet work.md)
+[参考链接](article/how does the internet work.md)
 
