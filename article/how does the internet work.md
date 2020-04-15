@@ -1,21 +1,3 @@
-> How does the internet work? 
->
-> 网络通过 IP (网际协议) 与 TCP (传输控制协议)、其他协议进行工作的
-
-学习链接：https://app.yinxiang.com/fx/5d6d98f5-2252-4edd-b991-14c69785c554
-
-## 概述
-
-**IP**：the *Internet Protocol* which specifies how computers should route information to other computers by attaching addresses onto the data it sends.
-
-**TCP**：the *Transport Control Protocol* has a rule that if one computer sends data to another computer, the destination computer should let the source computer know if any data was missing so the source computer can re-send it. 
-
-**packet**：在网络中传递的数据叫做 Message (消息)，在传输前会根据 IP 协议进行拆包，在网络中传输
-
-### What’s a packet routing network?
-
-网络由许多的路由器组成。路由器的工作是把包从转发出去。包在两个路由器之间的提
-
 ---
 
 # How Does The Internet Work?
@@ -184,3 +166,25 @@ Suppose a hacker intercepted every *message* sent between the *client* and the *
 - With the growth of the Internet, advent of WIFI, and e-commerce needs, *SSL/TLS* was developed to address security concerns.
 
 Thanks for reading. Comments/corrections/questions are welcome. Feel free to leave them below.
+
+---
+
+# 阅读笔记
+
+> How does the internet work? 
+>
+> 网络通过 IP (网际协议) 与 TCP (传输控制协议)、其他协议进行工作的
+
+学习链接：https://app.yinxiang.com/fx/5d6d98f5-2252-4edd-b991-14c69785c554
+
+## 概述
+
+**IP**：the *Internet Protocol* which specifies how computers should route information to other computers by attaching addresses onto the data it sends.
+
+**TCP**：the *Transport Control Protocol* has a rule that if one computer sends data to another computer, the destination computer should let the source computer know if any data was missing so the source computer can re-send it. 
+
+**packet**：在网络中传递的数据叫做 Message (消息)，在传输前会根据 IP 协议进行拆包，在网络中传输
+
+### What’s a packet routing network?
+
+网络由许多的路由器组成。路由器的工作是把包从转发出去。包在两个路由器之间的提
